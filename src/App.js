@@ -6,9 +6,9 @@ class App extends  Component {
 
   state={
     items:[
-      {id:1,name:'hager',age:22},
-      {id:2,name:'hana',age:33},
-      {id:3,name:'hadeer',age:62}
+      {id:1,name:'Reading',age:20},
+      {id:2,name:'Study',age:30},
+      {id:3,name:'Training',age:60}
     ]
   }
   deleteitem=(id) =>{
